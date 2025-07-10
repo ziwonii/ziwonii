@@ -1,5 +1,5 @@
 <div align=center> 
-<h1 align="center"> 🙈 ziwonii 🙊 </h1>
+<h1 align="center"> Jiwon Oh </h1>
 <p align="center">
   
 2023.03. - ing    <br>    *Chung-ang Univ. Computer Science & Engineering*
