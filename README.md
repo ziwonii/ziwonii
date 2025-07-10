@@ -12,7 +12,7 @@
 <h3 align="center"> 📊 GITHUB STATUS 📊 </h3>
 <div align=center>	
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziwonii&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziwonii&show_icons=true&theme=buefy)
  
  </div>
 
